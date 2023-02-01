@@ -33,4 +33,11 @@ Vacation means a long period of time that one takes off from school or work to e
 | unitedstates | The USA is known for its iconic landmarks – The Statue of Liberty, Hollywood Sign, Golden Gate Bridge  | 6months |
 | India | To see diverse cultures and experince great food | 6 months|
 
+---
+
+# Funnyquotes 
+>The difference between stupidity and genius is that genius has its limits - *Albert Einstein* <br>
+>Live for today and let tomorrow come later - *mother teresa*
+
+
 
