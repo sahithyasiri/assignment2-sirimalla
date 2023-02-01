@@ -39,5 +39,23 @@ Vacation means a long period of time that one takes off from school or work to e
 >The difference between stupidity and genius is that genius has its limits - *Albert Einstein* <br>
 >Live for today and let tomorrow come later - *mother teresa*
 
+---
+
+# code fencing 
+<https://stackoverflow.com/questions/168455/how-do-you-post-to-an-iframe>
+```
+<form action="action" method="post" target="output_frame">
+    <!-- input elements here --> 
+</form>
+<iframe name="output_frame" src="" id="output_frame" width="XX" height="YY">
+</iframe>
+
+```
+
+<https://css-tricks.com/snippets/html/post-data-to-an-iframe>
+
+```
+
+
 
 
